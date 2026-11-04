@@ -10,9 +10,9 @@ title                    : "Qiran Zhang"
 title_separator          : "-"
 name                     : &name "Qiran Zhang"
 description              : &description "Undergraduate Student at Kunming University of Science and Technology"
-url                      : "https://qiranzhang.github.io"
+url                      : "https://qiran-zhang.github.io"
 baseurl                  : ""
-repository               : "qiran-zhang/qiranzhang.github.io"
+repository               : "qiran-zhang/qiran-zhang.github.io"
 
 # Site Author
 author:
